@@ -1,0 +1,30 @@
+body
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+scrollbar-face-color:#C0C0C0;
+scrollbar-shadow-color: #FF0000;
+scrollbar-highlight-color: #AF0000;
+scrollbar-3dlight-color: #FF0000;
+scrollbar-darkshadow-color: #700000;
+scrollbar-track-color: #000000;
+scrollbar-arrow-color: #000000;
+}
+p { font-family: Arial ; font-size: 10pt }
+td { font-family: Arial ; font-size: 10pt }
+th { font-family: Verdana; font-size: 10pt }
+h1 { font-family: Arial; font-size: 24pt; }
+h2 { font-family: Times; font-size: 18pt; }
+h3 { font-family: Arial; font-size: 11pt; }
+A:link { color:#0000FF; }
+A:visited { color:#FF0000; }
+A:active ( color:#008000; }
+A:hover { color:#0000FF; }
+/*
+     FILE ARCHIVED ON 08:27:25 Apr 08, 2002 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:06:48 Oct 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
